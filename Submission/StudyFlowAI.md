@@ -2,7 +2,7 @@
 
 ## Participant Details
 
-**Full Name:**  
+**Full Name:**
 Khushi Bhardwaj
 
 **GitHub Username:**  
